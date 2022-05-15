@@ -1,0 +1,52 @@
+#header{
+	width: 750px;
+	height: 50px;
+	background-color: purple;
+	color: white;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menu{
+	display: flex;
+	justify-content: center;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+#esquerdo{
+	width: 150px;
+	height: 70px;
+	background-color: red;
+	color: white;
+	padding-top: 10px;
+	padding-left: 10px;
+	float: left;
+	margin-top: 1px;
+	
+}
+#conteudo{
+	width: 450px;
+	height: 100px;
+	background-color: lightblue;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	float: left;
+	margin-top: 1px;
+	
+	
+}
+#direito{
+	width: 140px;
+	height: 70px;
+	background-color: green;
+	color:	white;
+	padding-top: 10px;
+	padding-left: 10px;
+	float: left;
+	margin-top: 1px;
+	
+}
